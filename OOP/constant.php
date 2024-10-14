@@ -1,12 +1,12 @@
 <?php 
-define('NAMA', 'Rafi Ikhsanul H');
+define('NAMA', 'Dony Laksmana');
 echo NAMA;
 echo "<br>";
 const UMUR = 20;
 echo UMUR;
 echo "<hr>";
 class Coba {
-    const NAMA = 'Rafi Ikhsanul  H';
+    const NAMA = 'Dony Laksmana';
 }
 echo Coba::NAMA;
 echo "<hr>";
